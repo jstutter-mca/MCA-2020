@@ -4,6 +4,8 @@ So say I'm writing a paragraph about my project. And then I think, "hey I might 
 
 So here should be my new paragraph?
 
-[Link to Week 1](answers/week1)
-
-[Link to Week 3](answers/week3)
+| Week | Topic                                   |
+| ---- | --------------------------------------- |
+| 1    | [Creating GitHub](answers/week1)        |
+| 2    | *Nothing created*                       |
+| 3    | [Making Verovio example](answers/week3) |
