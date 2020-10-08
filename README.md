@@ -4,6 +4,6 @@ So say I'm writing a paragraph about my project. And then I think, "hey I might 
 
 So here should be my new paragraph?
 
-[Link to Week 1](week1)
+[Link to Week 1](answers/week1)
 
-[My amazing Verovio example](verovio.html)
+[Link to Week 3](answers/week3)
